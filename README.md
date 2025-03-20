@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/solo-leveling/images/4/44/Igris_Anime.png/revision/latest?cb=20250316024217" alt="Achuthanantha NJ Banner"  width="400" height="150"/>
+  <img src="https://static.wikia.nocookie.net/solo-leveling/images/4/44/Igris_Anime.png/revision/latest?cb=20250316024217" alt="Achuthanantha NJ Banner"  width="100" height="150"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Achuthanantha N J</h1>
