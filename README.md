@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/static-assets-upload8394352579447008208.png" alt="Achuthanantha NJ Banner"  width="775" height="auto"/>
+  <img src="https://github.com/achutha407/TranspoRent/blob/16ecc34410be283616e9f73d152c28ade35c64b3/assests/static-assets-upload8394352579447008208.png" alt="Achuthanantha NJ Banner"  width="775" height="auto"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Achuthanantha N J</h1>
